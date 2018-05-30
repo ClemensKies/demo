@@ -28,6 +28,7 @@ class Huis{
 	int oppervlakte() {
 		return breedte *lengte;
 	}
+	
 }
 	
 
